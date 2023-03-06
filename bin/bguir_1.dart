@@ -126,7 +126,7 @@ void main(List<String> arguments) {
   //mapMain();
   //filesMain();
   //jsonMain();
-  //jsonSerializationMain();
-  asyncAwaitMain();
+  jsonSerializationMain();
+  //asyncAwaitMain();
 
 }

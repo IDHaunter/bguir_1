@@ -2,7 +2,7 @@
 import 'package:json_annotation/json_annotation.dart';
 
 // указываем куда будет записываться код сериализации/десериализации
-/*
+
 part 'student_s.g.dart';
 
 @JsonSerializable()
@@ -19,14 +19,14 @@ class StudentS {
        this.age,
        this.course,
        this.single,
-      List<String>?description);
+       List<String>? descriptionList);
 
   StudentS.withOutDescription( {required this.name,
     required this.age,
     required this.course,
     required this.single});
 
-  StudentS.fromJson(Map<String, dynamic> json) => _$StudentSFromJson(json);
+  factory StudentS.fromJson(Map<String, dynamic> json) => _$StudentSFromJson(json);
 
   void addDescription(String description) {
     descriptionList.add(description);
@@ -44,4 +44,4 @@ class StudentS {
   Map<String, dynamic> toJson() => _$StudentSToJson(this);
 
 }
-*/
+
