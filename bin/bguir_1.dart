@@ -18,15 +18,15 @@ import 'package:bguir_1/8iskluchenie.dart';
 import 'package:bguir_1/9oop.dart';
 import 'package:bguir_1/13enum/enum_main.dart';
 import 'package:bguir_1/12fabric/fabric_main.dart';
-import 'package:bguir_1/generics/generics_main.dart';
-import 'package:bguir_1/generics2/generics2_main.dart';
-import 'package:bguir_1/interfaces/interfaces_main.dart';
+import 'package:bguir_1/10generics/generics_main.dart';
+import 'package:bguir_1/11generics2/generics2_main.dart';
+import 'package:bguir_1/09interfaces/interfaces_main.dart';
 
-import 'package:bguir_1/logic/cat_02.dart';
-import 'package:bguir_1/nasledovanie/abstracts.dart';
-import 'package:bguir_1/nasledovanie/interfaces.dart';
-import 'package:bguir_1/nasledovanie/nasledovanie.dart';
-import 'package:bguir_1/nasledovanie2/nasledovanie2_main.dart';
+import 'package:bguir_1/09logic/cat_02.dart';
+import 'package:bguir_1/09nasledovanie/abstracts.dart';
+import 'package:bguir_1/09nasledovanie/interfaces.dart';
+import 'package:bguir_1/09nasledovanie/nasledovanie.dart';
+import 'package:bguir_1/09nasledovanie2/nasledovanie2_main.dart';
 
 void main(List<String> arguments) {
   // моя не первая программа
@@ -126,7 +126,7 @@ void main(List<String> arguments) {
   //mapMain();
   //filesMain();
   //jsonMain();
-  jsonSerializationMain();
-  //asyncAwaitMain();
+  //jsonSerializationMain();
+  asyncAwaitMain();
 
 }

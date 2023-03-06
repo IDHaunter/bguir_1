@@ -1,7 +1,7 @@
 import 'dart:io';
 
-import 'package:bguir_1/nasledovanie/geometry/figure.dart';
-import 'package:bguir_1/nasledovanie/geometry/square.dart';
+import 'package:bguir_1/09nasledovanie/geometry/figure.dart';
+import 'package:bguir_1/09nasledovanie/geometry/square.dart';
 
 void nMain() {
   //К статическим полям классов обращаемся по имени общего класса, а не к конкретному экземпляру

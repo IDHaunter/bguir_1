@@ -1,5 +1,5 @@
-import 'package:bguir_1/generics2/account.dart';
-import 'package:bguir_1/generics2/transaction.dart';
+import 'package:bguir_1/11generics2/account.dart';
+import 'package:bguir_1/11generics2/transaction.dart';
 
 void generics2Main() {
 

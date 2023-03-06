@@ -1,6 +1,6 @@
 
-import 'package:bguir_1/nasledovanie/number.dart';
-import 'package:bguir_1/nasledovanie/perfect.dart';
+import 'package:bguir_1/09nasledovanie/number.dart';
+import 'package:bguir_1/09nasledovanie/perfect.dart';
 
 import 'even.dart';
 

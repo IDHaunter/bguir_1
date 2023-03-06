@@ -1,5 +1,5 @@
-import 'package:bguir_1/generics/my_id.dart';
-import 'package:bguir_1/generics/person.dart';
+import 'package:bguir_1/10generics/my_id.dart';
+import 'package:bguir_1/10generics/person.dart';
 
 void genericsMain() {
   //общая схема создания объекта на базе обобщённого класса

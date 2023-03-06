@@ -1,4 +1,4 @@
-import 'package:bguir_1/nasledovanie/geometry/figure.dart';
+import 'package:bguir_1/09nasledovanie/geometry/figure.dart';
 
 class Square extends Figure {
   double sideA = 1;

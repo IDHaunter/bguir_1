@@ -1,7 +1,7 @@
 import 'dart:io';
 
-import 'package:bguir_1/nasledovanie/geometry/figure.dart';
-import 'package:bguir_1/nasledovanie/geometry/square.dart';
+import 'package:bguir_1/09nasledovanie/geometry/figure.dart';
+import 'package:bguir_1/09nasledovanie/geometry/square.dart';
 
 abstract class AFigure {
   String name=''; //инициализируем т.к. используем конструктор без параметров
